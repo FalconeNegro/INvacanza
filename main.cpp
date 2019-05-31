@@ -6,5 +6,6 @@ void main()
      for(i=0;i<LL;i++)
      {
         cout<< " un funge" <<endl;
+        cin>>;
      }
 }
